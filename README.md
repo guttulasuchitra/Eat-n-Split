@@ -23,7 +23,7 @@ A React-based application for managing shared expenses among friends. This app a
 
 ## 📸 Screenshots
 
-### Friend List
+### Static Page
 
 ![Static Page](./Screenshorts/Static_image.png)
 
