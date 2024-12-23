@@ -24,13 +24,20 @@ A React-based application for managing shared expenses among friends. This app a
 ## 📸 Screenshots
 
 ### Friend List
-![Friend List](./assets/friend-list.png)
+
+![Static Page](./Screenshorts/Static_image.png)
 
 ### Add Friend Form
-![Add Friend Form](./assets/add-friend-form.png)
+
+![Add Friend Form](./Screenshorts/FriendAdd.png)
+
+### Friend List
+
+![Friend List](./Screenshorts/FriendList.png)
 
 ### Split Bill Form
-![Split Bill Form](./assets/split-bill-form.png)
+
+![Split Bill Form](./Screenshorts/SplitBill.png)
 
 ---
 
@@ -57,21 +64,25 @@ project-root/
 ## 🧑‍💻 How to Run the Project
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/your-username/split-bill-app.git
    ```
 
 2. **Navigate to the project directory:**
+
    ```bash
    cd split-bill-app
    ```
 
 3. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
 4. **Start the development server:**
+
    ```bash
    npm start
    ```
@@ -84,4 +95,3 @@ project-root/
 
 - Profile pictures generated using [Pravatar](https://pravatar.cc/).
 - Inspired by the need for a simple expense-sharing tool.
-
